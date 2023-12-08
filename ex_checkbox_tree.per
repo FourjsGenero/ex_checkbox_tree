@@ -1,0 +1,15 @@
+LAYOUT (TEXT="Checkbox Tree Example")
+TREE
+{
+[f01         ][f02     ]
+}
+END
+END
+ATTRIBUTES
+PHANTOM formonly.parentid;
+PHANTOM formonly.id ;
+EDIT f01 = formonly.name, NOENTRY;
+PHANTOM  formonly.flag;
+IMAGE f02 = formonly.checkbox_as_image, ACTION=toggle, TITLE="Selected";
+INSTRUCTIONS
+SCREEN RECORD scr(parentid, id, name, flag, checkbox_as_image)

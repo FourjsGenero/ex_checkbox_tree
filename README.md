@@ -9,4 +9,4 @@ This example could be expanded to display a checkbox image alongside parent rows
 
 ![Screen Shot 2023-12-08 at 1 38 39 PM](https://github.com/FourjsGenero/ex_checkbox_tree/assets/13615993/6d05751d-a4f0-4eb5-93f7-e6d04cb14e78)
 
-FGL-1510 is the dev task to allow INPUT ARRAY and TREE, ask your support contact to add.  If it is to be allowed then IMHO it would be with two conditions, (i)  APPEND ROW, DELETE ROW, INSERT ROW, AUTO APPEND all set to FALSE (2) parentidcolumn and idcolumn are not editable, so that the tree structure was not directly edited by the end-user
+FGL-1510 is the dev task to allow INPUT ARRAY and TREE, ask your support contact to add.  If it is to be allowed then IMHO it would be with two conditions, (i)  APPEND ROW, DELETE ROW, INSERT ROW, AUTO APPEND all set to FALSE (2) parentidcolumn and idcolumn are not editable, so that the tree structure was not directly edited by the end-user.
